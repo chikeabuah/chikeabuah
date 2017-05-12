@@ -43,5 +43,5 @@ gem 'byebug'
 
 gem 'haml'
 
-ruby "2.1.10"
+ruby "2.2.7"
 
